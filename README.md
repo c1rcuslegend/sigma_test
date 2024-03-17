@@ -1,0 +1,1 @@
+Python script that analyzes your IMDb watchlist to identify the percentage of "sigma" films you've already seen, analyzes how much you are afraid of women and recommends "sigma" hidden gems you might have missed.
